@@ -178,9 +178,9 @@ const Footer = () => {
         <div className={style.copyrightText}>
           <p>
             Copyright @ 2021 Mitegra Technology System. All Rights Reserved.
-            website made by
-            <Link href="https:nehardev.com">
-              <span className={style.mit1}> nehardev.com</span>
+            website made & Hosted by
+            <Link href="https:talehost.com">
+              <span className={style.mit1}> TaleHost</span>
             </Link>
           </p>
         </div>
