@@ -1,4 +1,4 @@
-export const exploreservices = [
+export const exploreServices = [
   {
     id: "service-1",
     imgUrl: "/service-01.png",
