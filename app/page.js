@@ -7,7 +7,7 @@ import {
   Hero,
   Insights,
   WhatsNew,
-  World,
+  Services,
 } from "../sections";
 
 const Page = () => (
@@ -18,7 +18,7 @@ const Page = () => (
     <Explore />
     <GetStarted />
     <WhatsNew />
-    <World />
+    <Services />
     <Insights />
     <Feedback />
     <Footer />
