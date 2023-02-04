@@ -1,14 +1,5 @@
 import { Footer, Navbar } from "../components";
-import {
-  About,
-  Explore,
-  Feedback,
-  GetStarted,
-  Hero,
-  Insights,
-  WhatsNew,
-  Services,
-} from "../sections";
+import { About, Explore, Contact, Hero } from "../sections";
 
 const Page = () => (
   <div>
@@ -16,11 +7,7 @@ const Page = () => (
     <Hero />
     <About />
     <Explore />
-    <GetStarted />
-    <WhatsNew />
-    <Services />
-    <Insights />
-    <Feedback />
+    <Contact />
     <Footer />
   </div>
 );
